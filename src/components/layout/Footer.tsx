@@ -1,4 +1,6 @@
 // src/components/layout/Footer.tsx
+import React from 'react';
+
 const Footer = () => {
   const socialLinks = [
     { href: 'https://linkedin.com', icon: 'linkedin', label: 'LinkedIn' },
